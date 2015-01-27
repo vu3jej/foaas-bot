@@ -1,2 +1,2 @@
 # foaas-bot
-A fucking Twitter bot using FOAAS (Fuck Off As A Service)[http://foaas.com/]
+A fucking Twitter bot written using [FOAAS](http://foaas.com/) (Fuck Off As A Service)
